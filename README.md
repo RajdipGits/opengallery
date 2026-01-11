@@ -61,9 +61,7 @@ This project uses **Picsum Photos**, a free and open image service.
 ---
 
 ## 🚀 Live Demo
-
-> Coming soon…  
-> _(Deploy on Vercel / Netlify for instant showcase)_
+<a herf="https://rajdipgits.github.io/opengallery/" style="color:#220964"><h3>🔗Visit site</h3></a>
 
 ---
 
