@@ -61,7 +61,7 @@ This project uses **Picsum Photos**, a free and open image service.
 ---
 
 ## 🚀 Live Demo
-<a herf="https://rajdipgits.github.io/opengallery/" style="color:#220964"><h3>🔗Visit site</h3></a>
+#### 🔗[Visit site](https://rajdipgits.github.io/opengallery/)
 
 ---
 
